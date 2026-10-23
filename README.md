@@ -33,4 +33,5 @@ I am passionate about applying artificial intelligence and data science to healt
 - Contacts 📫:
   
    email: filipposandoval@gmail.com
+  
    LinkedIn: www.linkedin.com/in/filippo-sandoval-9809542a2
